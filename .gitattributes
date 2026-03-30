@@ -1,0 +1,4 @@
+*.pt !text !filter !merge !diff
+*.safetensors !text !filter !merge !diff
+*.keras !text !filter !merge !diff
+*.h5 !text !filter !merge !diff
