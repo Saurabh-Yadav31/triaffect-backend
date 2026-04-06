@@ -1,0 +1,23 @@
+{
+  "label2id": {
+    "happy": 0,
+    "sad": 1,
+    "angry": 2,
+    "stressed": 3,
+    "neutral": 4
+  },
+  "id2label": {
+    "0": "happy",
+    "1": "sad",
+    "2": "angry",
+    "3": "stressed",
+    "4": "neutral"
+  },
+  "class_indices": {
+    "angry": 0,
+    "happy": 1,
+    "neutral": 2,
+    "sad": 3,
+    "stressed": 4
+  }
+}
